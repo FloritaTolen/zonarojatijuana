@@ -1,4 +1,4 @@
-# Mapa de Zonas Calientes - Personas Desaparecidas en Tijuana
+# Mapa de Zonas Calientes
 
 Este mapa interactivo muestra la distribución geográfica de las colonias con mayor número de personas desaparecidas en Tijuana, Baja California, excluyendo a quienes ya han sido localizados con vida.
 
